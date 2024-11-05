@@ -25,7 +25,6 @@
 #include "ply-array.h"
 #include "ply-pixel-display.h"
 #include "ply-image.h"
-#include "ply-kmsg-reader.h"
 #include "ply-console-viewer.h"
 #include "ply-rich-text.h"
 
